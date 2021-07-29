@@ -1,5 +1,0 @@
-C:\Users\Mohit Bhat\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.AssemblyReference.cache
-C:\Users\Mohit Bhat\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mohit Bhat\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfoInputs.cache
-C:\Users\Mohit Bhat\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.AssemblyInfo.cs
-C:\Users\Mohit Bhat\source\repos\ConsoleApp1\ConsoleApp3\obj\Debug\net5.0\ConsoleApp3.csproj.CoreCompileInputs.cache
